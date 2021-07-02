@@ -10,7 +10,7 @@ folded_thickness = THICKNESS
 # 43回を指定
 number_of_folding = 43
 
-# # 折られた紙の厚さを求める計算式(for文での実行)
+# 折られた紙の厚さを求める計算式(for文での実行)
 for number in range(number_of_folding):
 	folded_thickness = folded_thickness * 2
 
