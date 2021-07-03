@@ -2,5 +2,5 @@
 ## 紙折問題
 
 コードそのものとjupyterにてマークダウンにて記載した両方を記載します
-jupyter notebookではu課題uで下線表示するがgithubでは表示されない
+jupyter notebookでは__課題__で下線表示するがgithubでは表示されない
 理由がわからず時間かかった
